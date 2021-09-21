@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 
 
-You can watch my progress on how i've learned Java here.
+You can see my progress on how i've learned Java here.
