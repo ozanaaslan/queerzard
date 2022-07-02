@@ -8,7 +8,8 @@
 
 You can see my progress on how i've learned Java here.
 
-```#02.07.2022
+```
+#02.07.2022
 Over the course of time, 
 i've extended my range of knowledge regarding development with java..
 And i'm terrified of how terrible my past code seems to me retrospectively.
