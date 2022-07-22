@@ -12,7 +12,8 @@ You can see my progress on how i've learned Java here.
 #02.07.2022
 Over the course of time, 
 i've extended my range of knowledge regarding development with java..
-And i'm terrified of how terrible my past code seems to me retrospectively.
+And i'm terrified of how dreadful my past code seems to me retrospectively.
+But hey, everyone starts somewhere.. right?
 
 Being a developer means to me, 
 hating your code from only 2 months ago and desiring to rewrite it all,
