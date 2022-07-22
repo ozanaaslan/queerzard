@@ -16,7 +16,7 @@ And i'm terrified of how dreadful my past code seems to me retrospectively.
 But hey, everyone starts at some point.. right?
 
 Being a developer means to me, 
-hating your code from only 2 months ago and desiring to rewrite it all,
+disliking your code from only 2 months ago and desiring to rewrite it all,
 but not having the motivation to do so..
 
 Hey! Check out my most recent Repository!
