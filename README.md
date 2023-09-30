@@ -16,8 +16,7 @@ And i'm terrified of how dreadful my past code seems to me retrospectively.
 But hey, everyone starts at some point.. right?
 
 Being a developer means to me, 
-disliking your code from only 2 months ago and desiring to rewrite it all,
-but not having the motivation to do so..
+disliking your code from only 2 months ago and desiring to rewrite it all.
 
 Hey! Check out my most recent Repository!
-https://github.com/sebyplays/jwebserver
+https://github.com/queerzard/campusonspring
