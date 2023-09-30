@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 
 
-You can see my progress on how i've learned Java here.
+- 🧙‍♂️ Herein lies my captivating journey of acquiring knowledge about Java ...
 
 ```
 #02.07.2022
