@@ -12,11 +12,11 @@
 #02.07.2022
 Over the course of time, 
 I've extended my range of knowledge regarding development with java..
-And I'm terrified of how dreadful my past code seems to me retrospectively.
+And I'm terrified of how horrible my past code seems to me retrospectively.
 But hey, everyone starts at some point... right?
 
 Being a developer means to me, 
-disliking your code from only 2 months ago and desiring to rewrite it all.
+disliking your code from only 2 minutes ago and desiring to rewrite it all.
 
 #22.11.2023
 Here we go again. After a long long break.
