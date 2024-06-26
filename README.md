@@ -21,8 +21,5 @@ disliking your code from only 2 minutes ago and desiring to rewrite it all.
 #22.11.2023
 Here we go again. After a long long break.
 
-#17.6.2024
-Why do I still exist 💀
-
 Hey! Check out my most recent Repository!
 https://github.com/queerzard/campusonspring
